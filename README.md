@@ -1,8 +1,4 @@
-<p align="center">
-<img alt="AndroidInterviewQuestions" src="https://s3.cn-north-1.amazonaws.com.cn/static-assets/leads-landing/icon/icon-nd009-basic.png?raw=true">
-</p>
-
-# 机器学习笔记 
+#<img alt="AndroidInterviewQuestions" src="https://s3.cn-north-1.amazonaws.com.cn/static-assets/leads-landing/icon/icon-nd009-basic.png?raw=true"> 机器学习笔记 
 
 1. A number that describes a sample is called a: statistic (统计量)
 2. Statements about the relationships between variables are called Hypotheses (变量关系描述为假设)
